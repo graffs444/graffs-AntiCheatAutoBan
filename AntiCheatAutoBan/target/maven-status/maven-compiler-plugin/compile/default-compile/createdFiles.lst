@@ -1,0 +1,10 @@
+com/example/anticheatautoban/checks/FlyCheck.class
+com/example/anticheatautoban/AntiCheatAutoBan.class
+com/example/anticheatautoban/data/PlayerData.class
+com/example/anticheatautoban/checks/FreecamCheck.class
+com/example/anticheatautoban/checks/XRayCheck.class
+com/example/anticheatautoban/checks/XRayCheck$1.class
+com/example/anticheatautoban/AntiCheatAutoBan$1.class
+com/example/anticheatautoban/checks/SpeedCheck.class
+com/example/anticheatautoban/discord/DiscordWebhook$Severity.class
+com/example/anticheatautoban/discord/DiscordWebhook.class

@@ -1,0 +1,15 @@
+discord:
+  webhook-url: "https://discord.com/api/webhooks/1473792206258176224/N7aDvoG2Cgqqy-1CxAVxVqipUh5uvVGr7v8sf77DXjwQPDjCtOH37OhBntbbO0t12t0o"
+  enabled: true
+
+thresholds:
+  fly-ban: 10
+  speed-ban: 8
+  freecam-ban: 6
+
+xray:
+  min-y-level: 0
+  suspicious-ore-streak: 5
+  burst-threshold: 4
+
+decay-interval-ticks: 100
