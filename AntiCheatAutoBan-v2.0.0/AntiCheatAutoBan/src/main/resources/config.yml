@@ -1,5 +1,5 @@
 discord:
-  webhook-url: "https://discord.com/api/webhooks/1473792206258176224/N7aDvoG2Cgqqy-1CxAVxVqipUh5uvVGr7v8sf77DXjwQPDjCtOH37OhBntbbO0t12t0o"
+  webhook-url: "ADD_WEBHOOK_HERE"
   enabled: true
 
 thresholds:
