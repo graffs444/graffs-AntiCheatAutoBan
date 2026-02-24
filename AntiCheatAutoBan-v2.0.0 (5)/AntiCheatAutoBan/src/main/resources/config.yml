@@ -1,0 +1,17 @@
+discord:
+  # Paste your Discord webhook URL here.
+  # To get one: Discord channel -> Edit Channel -> Integrations -> Webhooks -> New Webhook -> Copy URL
+  webhook-url: "YOUR_WEBHOOK_URL_HERE"
+  enabled: true
+
+thresholds:
+  fly-ban: 10
+  speed-ban: 8
+  freecam-ban: 6
+
+xray:
+  min-y-level: 0
+  suspicious-ore-streak: 5
+  burst-threshold: 4
+
+decay-interval-ticks: 100
